@@ -1,0 +1,7 @@
+{
+  "name": "nativeApp_carmelo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
